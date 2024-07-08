@@ -1,0 +1,2 @@
+# algoliatest
+Solutions Architecture Test
