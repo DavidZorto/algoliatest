@@ -1,6 +1,6 @@
 # Getting started demo
 
-[![Edit getting-started](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/algolia/instantsearch/tree/master/examples/js/getting-started)
+[![Edit getting-started](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/suspicious-wind-4v7dny?file=%2Fsrc%2Fapp.js)
 
 _This project was generated with [create-instantsearch-app](https://github.com/algolia/instantsearch/tree/master/packages/create-instantsearch-app) by [Algolia](https://algolia.com)._
 
